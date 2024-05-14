@@ -1,0 +1,5 @@
+ld 5 X2
+add X3 X2 X2
+add X3 X3 X2
+sub X1 X3 X2
+str X0 2
